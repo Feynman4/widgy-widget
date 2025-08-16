@@ -1,7 +1,7 @@
 {
   "rows": [
-    { "label": "Google",        "url": "https://google.com" },
-    { "label": "FlightAware",   "url": "https://flightaware.com" },
-    { "label": "Flightradar24", "url": "https://flightradar24.com" }
+    { "label": "9M-AQI",        "url": "https://www.flightradar24.com/data/aircraft/9m-aqi" },
+    { "label": "RY6607",   "url": "https://www.flightradar24.com/data/flights/ry6607" },
+    { "label": "N/A", "url": "https://www.flightradar24.com/data/" }
   ]
 }
