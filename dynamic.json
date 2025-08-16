@@ -1,0 +1,7 @@
+{
+  "rows": [
+    { "label": "Google",        "url": "https://google.com" },
+    { "label": "FlightAware",   "url": "https://flightaware.com" },
+    { "label": "Flightradar24", "url": "https://flightradar24.com" }
+  ]
+}
