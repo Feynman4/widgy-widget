@@ -6,14 +6,14 @@
       "jetphotos": "https://www.jetphotos.com/photo/keyword/jiangxi"
     },
     {
-      "label": "9M-AQI",
-      "url": "https://www.flightradar24.com/data/aircraft/9m-aqi",
-      "jetphotos": "https://www.jetphotos.com/photo/keyword/9m-aqi"
-    },
-    {
       "label": "N570LE",
       "url": "https://www.flightradar24.com/data/aircraft/n570le",
       "jetphotos": "https://www.jetphotos.com/photo/keyword/n570le"
+    },
+    {
+      "label": "N/A",
+      "url": "N/A",
+      "jetphotos": "N/A"
     }
   ],
   "_unused_links": [
