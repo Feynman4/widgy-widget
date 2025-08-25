@@ -1,6 +1,11 @@
 {
   "rows": [
     {
+      "label": "CA483",
+      "url": "https://www.flightradar24.com/data/flights/ca483",
+      "jetphotos": "https://www.jetphotos.com/airline/Air+China"
+    },
+    {
       "label": "RY6607",
       "url": "https://www.flightradar24.com/data/flights/ry6607",
       "jetphotos": "https://www.jetphotos.com/photo/keyword/b1966"
@@ -9,11 +14,6 @@
       "label": "N978GB",
       "url": "https://www.flightradar24.com/data/aircraft/n978gb",
       "jetphotos": "https://www.jetphotos.com/photo/keyword/n978gb"
-    },
-    {
-      "label": "N/A",
-      "url": "N/A",
-      "jetphotos": "N/A"
     }
   ],
   "_unused_links": [
