@@ -11,17 +11,16 @@
       "jetphotos": "https://www.jetphotos.com/photo/keyword/n978gb"
     },
     {
-      "label": "",
-      "url": "",
-      "jetphotos": ""
+      "label": "N/A",
+      "url": "N/A",
+      "jetphotos": "N/A"
     }
   ],
   "_unused_links": [
     "https://www.flightradar24.com/data/flights/",
     "https://www.flightradar24.com/data/aircraft/",
     "https://www.jetphotos.com/photo/keyword/",
-    "label": "",
-      "url": "",
-      "jetphotos": "" 
   ]
 }
+
+
