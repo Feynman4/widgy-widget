@@ -6,14 +6,14 @@
       "jetphotos": "https://www.jetphotos.com/photo/keyword/9m-lrm"
     },
     {
+      "label": "9V-TNI",
+      "url": "https://www.flightradar24.com/data/aircraft/9v-tni",
+      "jetphotos": "https://www.jetphotos.com/photo/keyword/9v-tni"
+    },
+    {
       "label": "B-308T",
       "url": "https://www.flightradar24.com/data/aircraft/B308t",
       "jetphotos": "https://www.jetphotos.com/photo/keyword/b-308t"
-    },
-    {
-      "label": "N/A",
-      "url": "N/A",
-      "jetphotos": "N/A"
     }
   ],
   "_unused_links": [
