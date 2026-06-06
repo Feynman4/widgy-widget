@@ -4,16 +4,19 @@
       "name": "Orchard",
       "start": "2026-06-12T14:51:00+08:00",
       "end":   "2026-06-12T15:34:00+08:00"
+      "maps_url": "http://maps.apple.com/?ll=3.1390,101.6869"
     },
     {
       "name": "History presentation",
       "start": "2026-06-10T14:00:00+08:00",
-      "end":   "2026-06-10T15:30:00+08:00"
+      "end":   "2026-06-10T15:30:00+08:00",
+      "maps_url": "http://maps.apple.com/?ll=3.1390,101.6869"
     },
     {
-      "name": "Film night",
-      "start": "2026-06-12T20:00:00+08:00",
-      "end":   "2026-06-12T23:00:00+08:00"
+      "name": "History presentation",
+      "start": "2026-06-10T14:00:00+08:00",
+      "end":   "2026-06-10T15:30:00+08:00",
+      "maps_url": "http://maps.apple.com/?ll=3.1390,101.6869"
     }
   ]
 }
