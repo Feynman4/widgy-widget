@@ -9,8 +9,14 @@
     {
       "name": "Orchard",
       "start": "2026-06-12T14:51:00+08:00",
-      "end": "2026-06-12T15:40:00+08:00",
+      "end": "2026-06-12T15:12:00+08:00",
       "maps_url": "https://maps.apple/p/0zWZ~8SMgJ4NPB"
+    },
+    {
+      "name": "DJI Hasselblad",
+      "start": "2026-06-12T15:13:00+08:00",
+      "end": "2026-06-12T15:40:00+08:00",
+      "maps_url": "https://maps.apple/p/TaItQjdV1KhBJv"
     },
     {
       "name": "Fort Canning TTP",
@@ -34,19 +40,19 @@
       "name": "Gardens By The Bay",
       "start": "2026-06-12T18:15:00+08:00",
       "end": "2026-06-12T19:30:00+08:00",
-      "maps_url": "https://maps.apple/p/~vFzhorm1uRYGq"
+      "maps_url": "https://maps.apple/p/x.CXBj0uJ-tR7k"
     },
     {
-      "name": "Three Hours Test",
-      "start": "2026-06-07T15:30:00+08:00",
-      "end": "2026-06-07T18:30:00+08:00",
-      "maps_url": "https://maps.apple/p/test_url_4"
+      "name": "Shoppes at MBS",
+      "start": "2026-06-12T19:43:00+08:00",
+      "end": "2026-06-12T20:00:00+08:00",
+      "maps_url": "https://maps.apple/p/Rh1u.hxsgItnfS"
     },
     {
-      "name": "One Hour Test",
-      "start": "2026-06-07T14:32:00+08:00",
-      "end": "2026-06-07T15:30:00+08:00",
-      "maps_url": "https://maps.apple/p/test_url_4"
+      "name": "I light Singapore",
+      "start": "2026-06-12T20:00:00+08:00",
+      "end": "2026-06-12T21:45:00+08:00",
+      "maps_url": "https://maps.apple/p/I0.BTpWveJNfuY"
     }
   ]
 }
