@@ -1,18 +1,6 @@
 {
   "events": [
     {
-      "name": "Chemistry MCQs",
-      "start": "2026-06-09T12:13:00+08:00",
-      "end": "2026-06-09T13:21:00+08:00",
-      "maps_url": ""
-    },
-    {
-      "name": "Mcdonald's",
-      "start": "2026-06-09T13:36:00+08:00",
-      "end": "2026-06-09T14:58:00+08:00",
-      "maps_url": ""
-    },
-    {
       "name": "Crimson Education Meeting",
       "start": "2026-06-10T19:00:00+08:00",
       "end": "2026-06-10T20:30:00+08:00",
