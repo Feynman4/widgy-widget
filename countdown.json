@@ -4,25 +4,29 @@
       "name": "Drive / Grab to KLIA",
       "start": "2026-07-04T06:00:00+08:00",
       "end": "2026-07-04T07:00:00+08:00",
-      "maps_url": "https://maps.apple/p/y~ESuP9ygi7TAe"
+      "maps_url": "https://maps.apple/p/y~ESuP9ygi7TAe",
+      "comment": "Q Gates"
     },
     {
       "name": "Check-in, Baggage Drop & Immigration",
       "start": "2026-07-04T07:00:00+08:00",
       "end": "2026-07-04T07:35:00+08:00",
-      "maps_url": ""
+      "maps_url": "",
+      "comment": "Row K"
     },
     {
       "name": "McDonald's Breakfast",
       "start": "2026-07-04T07:35:00+08:00",
       "end": "2026-07-04T08:15:00+08:00",
-      "maps_url": ""
+      "maps_url": "",
+      "comment": ""
     },
     {
       "name": "Security Screening",
       "start": "2026-07-04T08:15:00+08:00",
       "end": "2026-07-04T08:30:00+08:00",
-      "maps_url": ""
+      "maps_url": "",
+      "comment": "Gate A7"
     }
   ]
 }
