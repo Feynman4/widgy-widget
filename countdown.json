@@ -17,13 +17,13 @@
     {
       "name": "McDonald's Breakfast",
       "start": "2026-07-04T07:35:00+08:00",
-      "end": "2026-07-04T08:15:00+08:00",
+      "end": "2026-07-04T08:08:00+08:00",
       "maps_url": "",
       "comment": ""
     },
     {
       "name": "Security Screening",
-      "start": "2026-07-04T08:15:00+08:00",
+      "start": "2026-07-04T08:08:00+08:00",
       "end": "2026-07-04T08:30:00+08:00",
       "maps_url": "",
       "comment": "Gate Q"
