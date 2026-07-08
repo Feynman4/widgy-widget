@@ -2,17 +2,17 @@
   "events": [
     {
       "name": "Flight CA8634",
-      "start": "2026-07-08T16:04:00+08:00",
-      "end": "2026-07-08T17:30:00+08:00",
+      "start": "2026-07-08T15:14:00+08:00",
+      "end": "2026-07-08T17:50:00+08:00",
       "maps_url": "",
-      "comment": "Seat 14L"
+      "comment": "Terminal 2, Seat 14L"
     },
     {
-      "name": "Car to MIG Airport",
-      "start": "2026-07-11T12:25:00+08:00",
+      "name": "Drive to MIG Airport",
+      "start": "2026-07-11T13:01:00+08:00",
       "end": "2026-07-11T14:30:00+08:00",
       "maps_url": "https://maps.apple.com/place?coordinate=31.426775,104.748695&name=Mianyang%20Nanjiao%20Airport%20Terminal%202%0AT2%E8%88%AA%E7%AB%99%E6%A5%BC&map=h",
-      "comment": ""
+      "comment": "Terminal 2"
     },
     {
       "name": "Check In",
@@ -20,6 +20,13 @@
       "end": "2026-07-11T14:57:00+08:00",
       "maps_url": "",
       "comment": "Economy 3-8"
+    },
+    {
+      "name": "Boarding CA8634",
+      "start": "2026-07-11T15:50:00+08:00",
+      "end": "2026-07-11T16:25:00+08:00",
+      "maps_url": "",
+      "comment": "Gate 4, Seat 14L"
     },
     {
       "name": "Flight CA8634",
