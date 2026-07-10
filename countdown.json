@@ -1,4 +1,10 @@
-{
+var main = function () {
+  if (!globalThis.app) {
+    globalThis.app = {};
+  }
+
+  // Always refresh the embedded data so edits here take effect immediately.
+  globalThis.app.data = {
     events: [
       {
         name: "Bus to Hotel",
@@ -51,3 +57,6 @@
       }
     ]
   };
+
+  return "";
+};
