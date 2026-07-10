@@ -1,60 +1,53 @@
 {
-  "events": [
-    {
-      "name": "Bus To Hotel",
-      "start": "2026-07-10T14:09:00+08:00",
-      "end": "2026-07-10T14:27:00+08:00",
-      "maps_url": "",
-      "comment": "Bus Shuttle 39, 5 Stops"
-    },
-    {
-      "name": "Flight CA8634",
-      "start": "2026-07-10T12:13:00+08:00",
-      "end": "2026-07-10T14:58:00+08:00",
-      "maps_url": "",
-      "comment": "Seat 14L, Flight Time 2h30m"
-    },
-    {
-      "name": "Drive to MIG Airport",
-      "start": "2026-07-11T13:01:00+08:00",
-      "end": "2026-07-11T14:30:00+08:00",
-      "maps_url": "https://maps.apple.com/place?coordinate=31.426775,104.748695&name=Mianyang%20Nanjiao%20Airport%20Terminal%202%0AT2%E8%88%AA%E7%AB%99%E6%A5%BC&map=h",
-      "comment": "Terminal 2, Domestic Departure, Economy 3-8"
-    },
-    {
-      "name": "Check In",
-      "start": "2026-07-11T14:30:00+08:00",
-      "end": "2026-07-11T14:57:00+08:00",
-      "maps_url": "",
-      "comment": "Economy 3-8, Gate 4"
-    },
-    {
-      "name": "Boarding CA8634",
-      "start": "2026-07-11T16:05:00+08:00",
-      "end": "2026-07-11T16:25:00+08:00",
-      "maps_url": "",
-      "comment": "Gate 4, Seat 14L"
-    },
-    {
-      "name": "Flight CA8634",
-      "start": "2026-07-11T16:35:00+08:00",
-      "end": "2026-07-11T19:05:00+08:00",
-      "maps_url": "",
-      "comment": "Seat 14L, Flight Time 2h30m"
-    },
-    {
-      "name": "Baggage Claim",
-      "start": "2026-07-11T19:32:00+08:00",
-      "end": "2026-07-11T20:10:00+08:00",
-      "maps_url": "",
-      "comment": "Baggage Carousel 30"
-    },
-    {
-      "name": "Car to House",
-      "start": "2026-07-11T20:03:00+08:00",
-      "end": "2026-07-11T22:00:00+08:00",
-      "maps_url": "https://maps.apple.com/place?coordinate=39.913234,116.605240&name=Hohogo%20(Beijing%20New%20World%20Shop)&place-id=H2710I3F9757FA92461&map=transit",
-      "comment": ""
-    }
-  ]
-}
+    events: [
+      {
+        name: "Bus to Hotel",
+        start: "2026-07-10T14:14:00+08:00",
+        end: "2026-07-11T14:37:00+08:00",
+        maps_url: "https://maps.apple.com/place?coordinate=31.426775,104.748695&name=Mianyang%20Nanjiao%20Airport%20Terminal%202%0AT2%E8%88%AA%E7%AB%99%E6%A5%BC&map=h",
+        comment: "Bus Shuttle 39, 5 Stops"
+      },
+      {
+        name: "Drive to MIG Airport",
+        start: "2026-07-11T13:01:00+08:00",
+        end: "2026-07-11T14:30:00+08:00",
+        maps_url: "https://maps.apple.com/place?coordinate=31.426775,104.748695&name=Mianyang%20Nanjiao%20Airport%20Terminal%202%0AT2%E8%88%AA%E7%AB%99%E6%A5%BC&map=h",
+        comment: "Terminal 2, Domestic Departure, Economy 3-8"
+      },
+      {
+        name: "Check In",
+        start: "2026-07-11T14:30:00+08:00",
+        end: "2026-07-11T14:57:00+08:00",
+        maps_url: "",
+        comment: "Economy 3-8, Gate 4"
+      },
+      {
+        name: "Boarding CA8634",
+        start: "2026-07-11T16:05:00+08:00",
+        end: "2026-07-11T16:25:00+08:00",
+        maps_url: "",
+        comment: "Gate 4, Seat 14L"
+      },
+      {
+        name: "Flight CA8634",
+        start: "2026-07-11T16:35:00+08:00",
+        end: "2026-07-11T19:05:00+08:00",
+        maps_url: "",
+        comment: "Seat 14L, Flight Time 2h30m"
+      },
+      {
+        name: "Baggage Claim",
+        start: "2026-07-11T19:32:00+08:00",
+        end: "2026-07-11T20:10:00+08:00",
+        maps_url: "",
+        comment: "Baggage Carousel 30"
+      },
+      {
+        name: "Car to House",
+        start: "2026-07-11T20:03:00+08:00",
+        end: "2026-07-11T22:00:00+08:00",
+        maps_url: "https://maps.apple.com/place?coordinate=39.913234,116.605240&name=Hohogo%20(Beijing%20New%20World%20Shop)&place-id=H2710I3F9757FA92461&map=transit",
+        comment: ""
+      }
+    ]
+  };
